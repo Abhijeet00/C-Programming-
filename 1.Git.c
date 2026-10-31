@@ -40,3 +40,4 @@ git branch -M main
 git push :
 git push origin main ( every single time )
 git push -u origin main (once per local repo) --> git push (other times)
+git push -u origin main --force : Forces git push ( Clears whole repo though so be careful)
